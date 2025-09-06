@@ -25,4 +25,4 @@ Always open to learning, contributing, and working on disruptive solutions.
 ## 💡 Let's Connect  
 
 Excited to collaborate on **Open Source, Full Stack Projects, or AI-assisted solutions**.  
-If you’ve got an idea or project, feel free to reach out!  
+If you’ve got an idea or project, feel free to reach out!  -Social links attached above
